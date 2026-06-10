@@ -1,8 +1,8 @@
 <h1 align="center">Maksim Nesterov</h1>
 
-<p align="center">DevOps · SRE · mission-critical operations</p>
+<p align="center">DevOps · SRE</p>
 
-<p align="center"><sub>📍 Vladivostok → Moscow · July 2026</sub></p>
+<p align="center"><sub>📍 Vladivostok / Moscow</sub></p>
 
 <br>
 
@@ -15,24 +15,14 @@
 <h3 align="center">Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gitlab,kubernetes,terraform" />
-</p>
-
-<br>
-
-<h3 align="center">Showcase</h3>
-
-<p align="center">
-  <b><a href="https://github.com/Fyrestyrter/<repo>">Project name</a></b><br>
-  <sub>app → GitLab CI/CD → Kubernetes → Prometheus + Grafana</sub><br>
-  <sub>🚧 work in progress</sub>
+  <img src="https://skillicons.dev/icons?i=gitlab,kubernetes" />
 </p>
 
 <br>
 
 <p align="center">♠ ♥ ♦ ♣</p>
 
-<p align="center"><sub>Off the clock — poker. Risk management, +EV decisions under uncertainty,<br>and staying calm when the stakes (or the pages) spike at 3 AM.</sub></p>
+<p align="center"><sub>Off the clock — poker.</sub></p>
 
 <br>
 
