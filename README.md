@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Maksim Nesterov</h1>
 
-<!--
-**Fyrestyrter/Fyrestyrter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">DevOps · SRE · mission-critical operations</p>
 
-Here are some ideas to get you started:
+<p align="center"><sub>📍 Vladivostok → Moscow · July 2026</sub></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="center">Skills</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,ansible,prometheus,grafana,postgres,kafka,redhat,git&perline=11" />
+</p>
+
+<h3 align="center">Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gitlab,kubernetes,terraform" />
+</p>
+
+<br>
+
+<h3 align="center">Showcase</h3>
+
+<p align="center">
+  <b><a href="https://github.com/Fyrestyrter/<repo>">Project name</a></b><br>
+  <sub>app → GitLab CI/CD → Kubernetes → Prometheus + Grafana</sub><br>
+  <sub>🚧 work in progress</sub>
+</p>
+
+<br>
+
+<p align="center">♠ ♥ ♦ ♣</p>
+
+<p align="center"><sub>Off the clock — poker. Risk management, +EV decisions under uncertainty,<br>and staying calm when the stakes (or the pages) spike at 3 AM.</sub></p>
+
+<br>
+
+<p align="center">
+  <a href="https://t.me/Fyrestyrter"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:fyrestyrter@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
