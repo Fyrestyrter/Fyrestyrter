@@ -4,8 +4,6 @@
 
 <p align="center"><sub>📍 Vladivostok / Moscow</sub></p>
 
-<br>
-
 <h3 align="center">Skills</h3>
 
 <p align="center">
